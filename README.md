@@ -37,16 +37,16 @@ Gráficos utilizando Recharts
 
 O sistema apresenta um dashboard com as seguintes métricas (todas baseadas em SQL):
 
-[X] Total de KM percorrido
-[X] Soma da quilometragem de todas as viagens.
-[X] Volume por Categoria
-[X] Quantidade de viagens agrupadas por tipo de veículo (LEVE / PESADO).
-[X] Cronograma de Manutenção
-[X] Listagem das próximas 5 manutenções, ordenadas por data.
-[X] Ranking de Utilização
-[X] Identificação do veículo com maior soma de quilometragem acumulada.
-[X] Projeção Financeira
-[X] Soma do custo estimado de manutenções no mês atual.
+- Total de KM percorrido
+- Soma da quilometragem de todas as viagens.
+- Volume por Categoria
+- Quantidade de viagens agrupadas por tipo de veículo (LEVE / PESADO).
+- Cronograma de Manutenção
+- Listagem das próximas 5 manutenções, ordenadas por data.
+- Ranking de Utilização
+- Identificação do veículo com maior soma de quilometragem acumulada.
+- Projeção Financeira
+- Soma do custo estimado de manutenções no mês atual.
 
 ## 🗄️ Banco de Dados
 
@@ -111,7 +111,7 @@ Tabela de manutenções com status dinâmico
 
 - O projeto foi desenvolvido com foco em:
 
-Separação de responsabilidades
-Clareza na organização de código
-Eficiência nas consultas SQL
-Interface funcional e moderna
+- Separação de responsabilidades
+- Clareza na organização de código
+- Eficiência nas consultas SQL
+- Interface funcional e moderna
