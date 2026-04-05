@@ -92,8 +92,6 @@ Gráfico de volume por tipo
 CRUD completo de viagens
 Tabela de manutenções com status dinâmico
 
-(Inserir prints aqui)
-
 ### Dashboard
 ![Dashboard](./images/Dashboard.png)
 
